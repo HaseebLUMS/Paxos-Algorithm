@@ -1,2 +1,2 @@
 # Paxos-Algorithm
-An implementation of a key value store which achieves consensus through paxos algorithm. Written in golang.
+An implementation of a distributed key value store which achieves consensus through paxos algorithm. Written in golang.
